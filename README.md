@@ -6,7 +6,7 @@
 
 ERC721RA is an improved implementation of ERC721A with refundability and gas saving. It gives NFT owners freedom to return minted NFTs and get refund within a given time.
 
-The goal of this project is to encourage the adoption of of ERC721RA NFT and improve creators credibility.
+The goal of this project is to encourage the adoption of ERC721RA NFT and improve creators credibility.
 
 For more information please visit [erc721ra.org](https://erc721ra.org). Follow us on twitter for [@ERC721RA](https://twitter.com/erc721ra) the latest updates. Join our [Github](https://github.com/erc721ra) project to collaborate.
 
