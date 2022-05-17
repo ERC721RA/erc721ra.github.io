@@ -25,8 +25,10 @@ The gas report is generated with Hardhat Gas Reporter. The minting performance i
 ## Contact
 
 - Will Qian (creator) - [@0xwilxyz](https://twitter.com/0xwilxyz)
-- Kuncle (Contributor)
-- Lucky (Contributor)
+- Kuncle (Contributor) - [@KingsUncle1](https://twitter.com/KingsUncle1)
+- Lucky (Contributor) - [@millsonzhou](https://twitter.com/millsonzhou)
+- Joyce (Contributor) - [@joydefender](https://twitter.com/joydefender)
+
 
 **Join ERC721RA as a contributor: [Apply Now](https://forms.gle/32uiJ6d7e8McddaK6)**
 
