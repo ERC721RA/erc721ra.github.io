@@ -18,7 +18,7 @@ Rari Labs is not liable for any outcome of using ERC721RA
 
 ## Contact
 
-Check [Contributors List](https://github.com/ERC721RA/.github/blob/main/profile/README.md)
+**Check [Contributors List](https://github.com/ERC721RA/.github/blob/main/profile/README.md)**
 
 **Join ERC721RA as a contributor: [Apply Now](https://forms.gle/32uiJ6d7e8McddaK6)**
 
