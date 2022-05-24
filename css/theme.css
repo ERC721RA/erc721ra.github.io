@@ -97,7 +97,7 @@ h4,
 h5,
 h6 {
   margin-top: 0;
-  margin-bottom: 0.65rem;
+  margin-bottom: 0.55rem;
 }
 
 p {
@@ -386,7 +386,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  margin-bottom: 0.65rem;
+  margin-bottom: 0.55rem;
   font-family: inherit;
   font-weight: 600;
   line-height: 1.2;
@@ -11717,7 +11717,7 @@ h5,
 }
 
 h5 {
-  margin-bottom: 0.65rem;
+  margin-bottom: 0.55rem;
 }
 
 h6 {
@@ -13432,8 +13432,8 @@ blockquote .btn {
   height: 7.5rem;
 }
 .avatar.avatar-2xlg {
-  width: 12.5rem;
-  height: 12.5rem;
+  width: 11.5rem;
+  height: 11.5rem;
 }
 
 @media (min-width: 992px) {
